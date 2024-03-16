@@ -36,3 +36,8 @@ java -jar build/libs/filename.jar
 
 The above command will execute your code
 
+
+## Homework
+
+- Try to build a jar and run it directly from cli and see if the okhttp code is working or not just like it is working by running directly from intellij
+- instead of okhttp try to integrate retrofit library to make the same http call
